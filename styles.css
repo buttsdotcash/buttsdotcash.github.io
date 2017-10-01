@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	margin: 20px;
+	background-color: #351734;
+	color: #fcfadb;
+	font-family: sans-serif;
+}
+
+h1 {
+    color: #fcfadb;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+    color: #fcfadb;
+	max-width: 1000px;
+	margin: auto;
+}
+
+img {
+	max-width: 75%;
+	height: auto;
+}
